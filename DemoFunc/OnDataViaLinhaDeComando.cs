@@ -10,6 +10,7 @@ using Newtonsoft.Json;
 
 namespace DemoFunc
 {
+    //Função para realizar requisição
     public static class OnDataViaLinhaDeComando
     {
         [FunctionName("OnDataViaLinhaDeComando")]
